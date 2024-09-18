@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tony | Software Enginner at Republic Airways</h1>
+<h1 align="center">Hi 👋, I'm Tony | Software Engineer at Republic Airways</h1>
 <h3 align="center">Indiana University-Purdue University Indianapolis Graduate</h3>
 <h3 align""center">Coding Bootcamp Success Story</h3>
 
